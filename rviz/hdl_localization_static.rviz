@@ -200,7 +200,7 @@ Visualization Manager:
       Use rainbow: false
       Value: false
     - Class: rviz/MarkerArray
-      Enabled: false
+      Enabled: true
       Marker Topic: /hdl_people_detection_nodelet/detection_markers
       Name: MarkerArray
       Namespaces:
